@@ -4,4 +4,4 @@ feature-Aで書き加えたぞお
 fix-Bで書き加えたぞい
 
 fasture-C
-
+feature-D
